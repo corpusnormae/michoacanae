@@ -8,10 +8,10 @@ banner:
   height: '500px'
 ---
 
-__Wax__ is a [minimal computing](http://go-dh.github.io/mincomp/) project for producing digital exhibitions focused on longevity, low costs, and flexibility. Our underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. To start using Wax, please see our [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
+Este demo de muestra fue hecho con __Wax__, que es un proyecto de [minimal computing](http://go-dh.github.io/mincomp/) para producir exhibiciones digitales concebidas en función de su longevidad, bajo costs y flexibilidad. __Wax__ Fue desarrollado por [Marii Nyrop](https://marii.info/).
 
-The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
+La colección de este demo es parte del Fondo José Manuel Cavadas del Archivo Histórico de la Biblioteca Luis González de [El Colegio de Michoacán](https://www.colmich.edu.mx/) (México).
 
-### Browse the Collection
+### Explora la colección
 
 {% include collection_gallery.html facet_by='lugar' collection='michoacanae' %}
