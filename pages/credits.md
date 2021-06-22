@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Credits
+title: Créditos
 permalink: '/credits/'
 ---
 
-Wax is a minimal computing ([minicomp](https://github.com/minicomp)) project led by [Marii Nyröp](http://marii.info/). The project is currently maintained by Marii Nyröp at New York University and [Alex Gil](https://github.com/elotroalex) at Columbia University Libraries. It uses open source libraries and frameworks including [Jekyll](https://jekyllrb.com), [IIIF](http://iiif.io), [OpenSeaDragon](https://openseadragon.github.io/), [Rake](https://ruby.github.io/rake/), and [ElasticLunr](http://elasticlunr.com/). Wax builds upon work by [Peter Binkley](https://github.com/pbinkley), [David Newbury](https://github.com/workergnome), and others.
+Este demo fue creado por <a href="https://github.com/vgayolrs" target="_blank">Víctor Gayol</a>, profesor-investigador del Centro de Estudios Históricos de El Colegio de Michoacán con el objeto de colaborar con la Biblioteca de la institución con estrategias para difundir mejor los contenidos de su acervo. El demo se desarrolló en el marco del curso *minimal computing* del Penn DreamLab21.
 
-We welcome and encourage contributors and maintainers. Please get in touch, or [fork the project on GitHub](https://github.com/minicomp/wax). If you encounter any issue with the software, please [create an issue](https://github.com/minicomp/wax/issues) on our repository or post a comment on [Gitter](https://gitter.im/minicomp/wax/).
-
-For more on working with Wax, visit our [documentation wiki](https://minicomp.github.io/wiki/wax/).
+La base de este demo es Wax, un proyecto de <a href="https://github.com/minicomp" target="_blank">cómputo minimalista</a> liderado por <a href="http://marii.info/" target="_blank">Marii Nyröp</a>. El proyecto es mantenido por Marii Nyröp, de la New York University y <a href="https://github.com/elotroalex" target="_blank">Alex Gil</a>, de la red de biliotecas de la Columbia University.
