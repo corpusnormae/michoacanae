@@ -129,10 +129,10 @@ footer:
   links:
     - label: 'GitHub'
       link: 'https://github.com/corpusnormae/michoacanae'
-    - label: 'Credits'
+    - label: 'Créditos'
       link: '/credits'
     - label: 'Contacto'
-      link: 'https://gitter.im/minicomp/wax/'
+      link: 'http://etzakutarakua.colmich.edu.mx/apps/extensiones/index.asp#Biblioteca'
   logos:
     - img: '/img/colmich-logo.png'
 
