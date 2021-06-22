@@ -10,7 +10,7 @@ banner:
 
 Este demo de muestra fue hecho con __Wax__, que es un proyecto de [minimal computing](http://go-dh.github.io/mincomp/) para producir exhibiciones digitales concebidas en función de su longevidad, bajo costs y flexibilidad. __Wax__ Fue desarrollado por [Marii Nyrop](https://marii.info/).
 
-La colección de este demo es parte del Fondo José Manuel Cavadas del Archivo Histórico de la Biblioteca Luis González de [El Colegio de Michoacán](https://www.colmich.edu.mx/) (México).
+La colección de este demo es parte del Fondo José María Cavadas Dávalos del Archivo Histórico de la Biblioteca Luis González de [El Colegio de Michoacán](https://www.colmich.edu.mx/) (México).
 
 ### Explora la colección
 

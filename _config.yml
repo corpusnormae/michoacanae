@@ -101,25 +101,25 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: 'About'
+  - label: 'Acerca'
     sub:
       - label: 'Wax'
         link: '/about/'
       - label: 'Documentation'
         link: 'https://minicomp.github.io/wiki/wax/'
-      - label: 'Credits'
+      - label: 'Créditos'
         link: '/credits/'
-  - label: 'Exhibits'
+  - label: 'Exhibiciones'
     sub:
-      - label: 'Inline Parallax Image'
+      - label: 'Testamento de M. Haro'
         link: '/exhibits/a/'
-      - label: 'Inline Image References'
+      - label: 'Otros documentos'
         link: '/exhibits/b/'
-  - label: 'Browse'
+  - label: 'Explora'
     link: '/collection/'
-  - label: 'Search'
+  - label: 'Buscador'
     link: '/search/'
-  - label: 'Reuse'
+  - label: 'Reutiliza'
     link: '/reuse/'
 
 # --------------------------------------------------------------
