@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reuse the Collection
+title: Reutiliza la colección
 permalink: /reuse/
 collection: michoacanae
 ---
