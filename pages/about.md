@@ -3,8 +3,7 @@ layout: page
 title: Archivo Histórico
 permalink: /about/
 ---
-
-**El Archivo Histórico.**   
+ 
 El Archivo Histórico de la Biblioteca de <a href="https://www.colmich.edu.mx/" target="_blank">El Colegio de Michoacán</a> (AHBCM), resguarda más de cincuenta fondos con documentos de distinta procedencia, época y estado de conservación. Sus contenidos, generalmente, cubren temas michoacanos.
 
 Desde hace algunos años, el AHBCM comenzó un proceso de digitalización con el fin de proporcionar a los académicos, profesores, estudiantes y público interesado, un acceso completo al acervo.
