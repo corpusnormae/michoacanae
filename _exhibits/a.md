@@ -1,14 +1,14 @@
 ---
 layout: exhibit
-title: 'Exhibit A: Inline Parallax Image'
-author: Mihr 'Ali
-publish_date: 2018-11-15
+title: 'Testamento'
+author: Manuela de Aro
+publish_date: 2021-06-21
 permalink: /exhibits/a/
 ---
 
-Ut eleifend lacus at erat efficitur bibendum. Ut laoreet elit nec dolor molestie finibus. Vivamus justo risus, scelerisque nec dolor ut, pretium fringilla purus. Nam nisl erat, tristique ac libero vitae, bibendum pellentesque nulla. Praesent accumsan ut mauris ut euismod. Etiam mattis a justo eget blandit. Aliquam vitae magna eget nisi suscipit finibus id sit amet nulla.[^1]
+Este ejemplo de exhibición se centra en un documento: el testamento de Manuela de Haro. Contiene la imagen de una foja del documento que está en la colección y permite desarrollar una narrativa específica sobre este documento.[^1]
 
-Nam velit leo, mattis ac dui non, vulputate porttitor sapien. Praesent in aliquet dui. Nulla facilisi. Maecenas nulla ex, facilisis non aliquet ac, ultrices eu sem. Sed vel aliquet urna. Mauris quis ex at lectus iaculis elementum id id massa. Integer luctus nulla vel tellus rutrum, ac pulvinar erat finibus. Aliquam erat volutpat. Pellentesque vel velit sit amet mauris dignissim feugiat.
+Parte del documento es visualizado fragmentariamente mientras se recorre la narrativa.
 
 
 {% include parallax_image.html collection='michoacanae' pid='jmc9' y='50%' %}
@@ -24,6 +24,6 @@ Duis finibus leo non velit viverra tincidunt. Fusce efficitur laoreet convallis.
 
 ### Notes
 
-[^1]: Integer eu augue elementum, venenatis nisi vitae, ultrices magna. Nunc accumsan sem quis tristique iaculis. Quisque sed lorem tortor.
+[^1]: Narrativa es todo aquel texto que permita contextualizar el documento en cuestión desde una perpectiva crítica.
 
 [^2]: Nunc semper commodo fringilla. Proin eget metus eget felis faucibus aliquet. Cras ultrices turpis id nibh cursus fringilla. Aenean nec magna turpis. Suspendisse egestas tellus iaculis ante pharetra imperdiet ac at odio.
