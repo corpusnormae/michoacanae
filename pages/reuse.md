@@ -5,8 +5,6 @@ permalink: /reuse/
 collection: michoacanae
 ---
 
-Wax is inspired by [FAIR data principles](https://journal.code4lib.org/articles/13427), and as such strives to make its collections findable, accessible, interoperable and reusable.
-
-The demo site comes with a specific `_include` called `interactive_metadata_table` to help you make pages like this one complete with interactive [DataTables](https://datatables.net/) and downloadable CSVs of collection metadata.
+Este demo recoge la filosofía de Wax respecto a lo que en el mundo anglosajón se conoce como <a href="https://journal.code4lib.org/articles/13427" target="_blank">FAIR data principles</a>, y como tal se une al esfuerzo por hacer que las colecciones publicadas sean fáciles de encontrar, accesibles, interoperables y reutilizables. Publicar la tabla de metadatos aquí abajo es parte de ese esfuerzo.
 
 {% include interactive_metadata_table.html collection=page.collection %}
