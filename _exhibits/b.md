@@ -10,7 +10,7 @@ permalink: /exhibits/b/
 
 {% include inline_image.html collection='michoacanae' pid='jmc1' %}
 
-En este caso, los dos documentos de la exhibición tratan sobre las diligencias judiciales realizadas tras la muerte del sacerdotes José María Cavadas Dávalos (1795-1844).
+En este caso, los dos documentos de la exhibición tratan sobre las diligencias judiciales realizadas tras la muerte del sacerdote José María Cavadas Dávalos (1795-1844).
 
 Con estas pocas palabras se ha logrado contextuar los documentos para que el público que accede a la página pueda darse una idea de lo que contiene el documento, su sitio dentro de la colección; que la colección refiere a un fondo documental particular mucho más amplio y que ese fondo se encuentra en la Biblioteca Luis González del COLMICH.
 
